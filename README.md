@@ -1,8 +1,19 @@
-# React + Vite
+<!-- @format -->
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Paragen
 
-Currently, two official plugins are available:
+Paragen is a simple React component that generates a specified number of paragraphs from a JSON data source and provides a button to copy all generated paragraphs to the clipboard. The "COPY ALL" button is initially hidden and becomes visible after the paragraphs are generated.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Generate paragraphs based on JSON data
+- Copy all generated paragraphs to the clipboard
+- Responsive UI with dynamic elements
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
+## HOSTED LINK
+
+[Click here to view page](https://para-generator-ruby.vercel.app/)
